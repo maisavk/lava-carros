@@ -1,3 +1,4 @@
+// versao 1.0 - revisao inicial
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
