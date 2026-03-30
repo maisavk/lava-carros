@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-//Struct para os carros
+//Struct para os carros comentario sem necessidade 
 struct Tcarro{
   char modelo[30] ;
   char placa[30] ;
